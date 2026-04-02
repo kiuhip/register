@@ -6,6 +6,9 @@
     "email": "kieuthehiep@gmail.com"
   },
   "records": {
-    "CNAME": "kiuhip.vercel.app"
+    "A": [
+      "76.76.21.21"
+    ],
+    "TXT": "vc-domain-verify=kiuhip.is-a.dev,3a0e6f75e83659532b7f"
   }
 }
