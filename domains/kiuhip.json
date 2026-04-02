@@ -1,9 +1,10 @@
 {
   "owner": {
     "username": "kiuhip",
-    "email": "kieuthehiep@gmail.com"
+    "email": "email-cua-ban@example.com"
   },
-  "records": {
-    "CNAME": "cname.vercel-dns.com"
+  "record": {
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": "vc-domain-verify=kiuhip.is-a.dev,3a0e6f75e83659532b7f"
   }
 }
